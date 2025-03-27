@@ -1,4 +1,4 @@
-Qin Qi's computational social science projects.
+Qin Qi's computational social science projects.(alfredblogges@gmail.com)
 
 I have solid foundation in computer science and I'm very interested in computational social science.
 
