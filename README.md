@@ -1,4 +1,4 @@
-This is Qin Qi's computational social science project.
+Qin Qi's computational social science projects.
 
 I have solid foundation in computer science and I'm very interested in computational social science.
 
